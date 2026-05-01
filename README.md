@@ -19,3 +19,4 @@ Built an Excel dashboard to analyze petroleum sales, dealer performance, revenue
 * Dealer Achievement Ranking Chart
 
 ## Dashboard Preview
+![Dashboard Preview](dashboard_preview.png)
